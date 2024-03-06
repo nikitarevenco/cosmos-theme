@@ -745,7 +745,7 @@
 },
 {
   "scope": [
-    "variable.other.object"
+    "variable.other.object.js"
   ],
   "settings": {
     "foreground": "#a5ffe1"

@@ -1,12 +1,13 @@
 {
-  "name": "cosmos-theme",
-  "displayName": "Cosmos Theme",
+  "name": "dark-cosmos-theme",
+  "displayName": "Dark Cosmos Theme",
   "description": "Beautiful, colourful theme designed for readability",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "NikitaRevenco",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nikitarevenco/cosmos-theme"
   },
   "keywords": [
     "theme",
@@ -31,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cosmos Theme",
+        "label": "Dark Cosmos Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Cosmos Theme-color-theme.json"
       }
