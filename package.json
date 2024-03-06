@@ -1,0 +1,40 @@
+{
+  "name": "cosmos-theme",
+  "displayName": "Cosmos Theme",
+  "description": "Beautiful, colourful theme designed for readability",
+  "version": "0.0.1",
+  "publisher": "NikitaRevenco",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "nikita revenco",
+    "nikitarevenco",
+    "javascript theme",
+    "css theme",
+    "web developer theme",
+    "space theme",
+    "nikita theme",
+    "bold theme",
+    "colourful",
+    "colorful"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmos Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmos Theme-color-theme.json"
+      }
+    ]
+  }
+}
